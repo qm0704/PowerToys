@@ -33,7 +33,6 @@
 
   <ItemGroup>
     <PackageReference Include="System.IO.Abstractions" Version="17.2.3" />
-    <PackageReference Include="System.Runtime.WindowsRuntime" Version="4.7.0" />
   </ItemGroup>
 
   <ItemGroup>
